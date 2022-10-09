@@ -1,0 +1,10 @@
+{
+    "icons": {
+        "check": "https://cdn.discordapp.com/emojis/1027897243753271326.webp?size=96&quality=lossless",
+        "cross": "https://cdn.discordapp.com/emojis/746448664347803648.png?v=1",
+        "error": "https://cdn.discordapp.com/emojis/1027897240943083551.webp?size=96&quality=lossless",
+        "info": "https://cdn.discordapp.com/emojis/1027894770716115035.webp?size=96&quality=lossless",
+        "online": "https://cdn.discordapp.com/emojis/1027897246060122152.webp?size=96&quality=lossless",
+        "offline": "https://cdn.discordapp.com/emojis/1027897240943083551.webp?size=96&quality=lossless"
+    }
+}
